@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712260941 source:c:\users\igorr\desktop\lista de ex grupo de estudos\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
